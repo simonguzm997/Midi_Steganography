@@ -1,7 +1,7 @@
 # Midi_Steganography
 
 ## Autores:
- ### Angela
+ ### Angela Lizeth Luque Tovar - 202216637
  
  ### Simón Guzmán Londoño - 201533711
 
